@@ -7,4 +7,4 @@ Hello! I'm Sagnik, a passionate Software Nerd. Most of the projects here are jus
 
 - [LinkedIn](https://www.linkedin.com/in/hellosagnik)
 - [Twitter](https://x.com/thefarzibatman)
-- [Website/Blog](https://mesagnik.in)
+- [Website/Blog](https://sagnikbhowmick.com)
